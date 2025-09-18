@@ -1,0 +1,2 @@
+export const USER_ROLES = { ADMIN: 'ADMIN', INSTRUCTOR: 'INSTRUCTOR', LEARNER: 'LEARNER' };
+export const EVENTS = { LOGIN: 'LOGIN', LOGOUT: 'LOGOUT' };
